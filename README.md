@@ -4,7 +4,7 @@ Documenting improvements made in the PSX port of Diablo
 ## Introduction
 While the PlayStation port of Diablo suffered from obvious downsides, such as downscaling graphics by 40% and abysmal loading times, it did feature many improvements.
 
-All improvements known are documented here.
+All known improvements are showcased here on a golden plaque dedicated to the PSX port.
 
 ## Graphics
 The PSX port features 16-bit graphics that allowed for new colors and effects not possible on the PC--which was limited to 256 (8-bit colors).
