@@ -6,7 +6,7 @@ All known improvements are showcased here on a golden plaque dedicated to the po
 ## Graphics
 The PSX port features 16-bit graphics that allowed for new colors and effects not possible on the PC--which was limited to 256 (8-bit colors).
 
-### Braziers
+#### Braziers
 ![lamp](img/lamp.png)
 - The graphic for braziers was redrawn to look nicer.
 - An extra lighting effect is drawn on top of the flames.
@@ -15,4 +15,9 @@ The PSX port features 16-bit graphics that allowed for new colors and effects no
   - It was likely removed due to concerns for epileptic people.
 
 ## Sound
-The PSX port added reverb to all sound effects outside of Tristram. This gives the dungeon a more "open" and "dark" effect.
+
+#### Fading
+- The volume of music fades in and out during load times. It also fades out when speeches play.
+
+#### Reverb
+- A reverb effect is added to all sound effects when outside of Tristram. This gives the dungeon a more "open" and "dark" feel.
