@@ -9,7 +9,7 @@ All improvements known are documented here.
 ## Graphics
 The PSX port features 16-bit graphics that allowed for new colors and effects not possible on the PC--which was limited to 256 (8-bit colors).
 
-#### Braziers
+### Braziers
 ![lamp](img/lamp.png)
 - The graphic for braziers was redrawn to look nicer.
 - An extra lighting effect is drawn on top of the flames.
