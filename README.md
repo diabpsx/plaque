@@ -4,7 +4,7 @@ While the PlayStation port of Diablo suffered from obvious downsides such as dow
 All known improvements are showcased here on a golden plaque dedicated to the port.
 
 ## Graphics
-The PSX port features 16-bit graphics that allowed for new colors and effects not possible on the PC--which was limited to 256 (8-bit colors).
+The PSX port features 16-bit graphics that allowed for new colors and effects not possible on the PC--which was limited to 256 (8-bit) colors.
 
 #### Braziers
 ![lamp](img/lamp.png)
