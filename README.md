@@ -10,9 +10,9 @@ All improvements known are documented here.
 The PSX port features 16-bit graphics that allowed for new colors and effects not possible on the PC--which was limited to 256 (8-bit colors).
 
 #### Braziers
+![lamp](img/lamp.png)
 - The graphic for braziers was redrawn to look nicer.
 - An extra lighting effect is drawn on top of the flames.
 - The flame animation was changed for the final game but used the same graphic as the PC in the beta.
 - Additionally a "flicker" effect is applied to the lighting of braziers and torches in the beta.
 - - It was likely removed due to concerns for epileptic people.
-![lamp](img/lamp.png)
