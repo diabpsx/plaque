@@ -27,5 +27,5 @@ There are several features that were removed from the game. Some are still in th
 
 #### Weird
 ![weird](img/weird.gif)
-- There is an unused function that makes the screen flash rainbow colors.
+- There is an unused function called `SetWeirdFX` that makes the screen flash rainbow colors.
 - In the final game this effect is only used by Apocalypse to make the screen flash white.
