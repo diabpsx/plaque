@@ -11,10 +11,8 @@ The PSX port features 16-bit graphics that allowed for new colors and effects no
 #### Braziers
 ![lamp](img/lamp.png)
 - The graphic for braziers was redrawn to look nicer.
-- A glowing effect was added on top of the flames.
-- The flame animation was changed for the final game but used the same graphic as the PC in the beta.
-- Additionally a "flicker" effect is applied to the lighting of braziers and torches in the beta.
-  - It was likely removed due to concerns for epileptic people.
+- A glowing/flickering effect was added on top of the flames.
+- The flame animation was changed to puffy circles.
 
 ## Sound
 
@@ -26,6 +24,11 @@ The PSX port features 16-bit graphics that allowed for new colors and effects no
 
 ## Unused
 There are several features that were removed from the game. Some are still in the code but disabled, others were active in the beta builds.
+
+#### Flickering Lights
+![flicker](img/flicker.gif)
+- In the beta there is an effect to make light from torches and braziers "flicker" as it would in reality.
+- The code is in the final game but disabled, likely due to concerns over epilepsy.
 
 #### Weird
 ![weird](img/weird.gif)
