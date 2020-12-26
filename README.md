@@ -20,7 +20,7 @@ The PSX port features 16-bit graphics that allowed for new colors and effects no
 - The volume of music fades in and out during load times. It also fades out when speeches play.
 
 #### Reverb
-- A reverb effect is added to all sound effects when outside of Tristram. This gives the dungeon a more "open" and "dark" feel.
+- A reverb effect is added to all sound effects when outside of Tristram. This gives the dungeon a more "open" and "dark" feel. The reverb was much more intense in the beta, and toned down a bit for the final game. Concert Hall reverb from the SPU is used.
 
 ## Unused
 There are several features that were removed from the game. Some are still in the code but disabled, others were active in the beta builds.
