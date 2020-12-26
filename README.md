@@ -5,6 +5,8 @@ All known improvements are showcased here on a golden plaque dedicated to the po
 
 *Note that the images have reduced quality to keep file sizes down.*
 
+The beta referenced below is the Easy As Pie (12-12-1997) build which can be [downloaded here](https://hiddenpalace.org/Diablo_(Dec_12,_1997_prototype)).
+
 ## Graphics
 The PSX port features 16-bit graphics that allowed for new colors and effects not possible on the PC--which was limited to 256 (8-bit) colors.
 
