@@ -7,6 +7,11 @@ All known improvements are showcased here on a golden plaque dedicated to the po
 
 The beta referenced below is the Easy As Pie (12-12-1997) build which can be [downloaded here](https://hiddenpalace.org/Diablo_(Dec_12,_1997_prototype)).
 
+## Bugfixes
+
+#### Dungeon Generation
+- The player may sometimes warp to Lazarus' lair on level 15 by walking on a seemingly random tile. This tile actually has the 40x40 coordinate of the Red Portal before it is converted to 112x112. Functions changed: `DRLG_L4PlaceMiniSet`
+
 ## Graphics
 The PSX port features 16-bit graphics that allowed for new colors and effects not possible on the PC--which was limited to 256 (8-bit) colors.
 
