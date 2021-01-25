@@ -10,7 +10,10 @@ The beta referenced below is the Easy As Pie (12-12-1997) build which can be [do
 ## Bugfixes
 
 #### Dungeon Generation
-- The player may sometimes warp to Lazarus' lair on level 15 by walking on a seemingly random tile. This tile happens to be the 40x40 coordinate of the Red Portal before it is converted to 112x112. Fixes: `DRLG_L4PlaceMiniSet`
+- The player may sometimes warp to Lazarus' lair on level 15 by walking on a seemingly random tile. This tile happens to be the 40x40 coordinate of the Red Portal before it is converted to 112x112. Code: `DRLG_L4PlaceMiniSet`
+
+#### Items
+- Spectral Elixir is modified in the item array to be usable after the quest is finished. This was fixed so it reverts back to unusable when a new game is made and also prevented modifying the global data. Code: `InitAllItemsUseable`
 
 ## Graphics
 The PSX port features 16-bit graphics that allowed for new colors and effects not possible on the PC--which was limited to 256 (8-bit) colors.
