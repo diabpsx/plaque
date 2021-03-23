@@ -51,3 +51,8 @@ There are several features that were removed from the game. Some are still in th
 ![weird](img/weird.gif)
 - There is an unused function called `SetWeirdFX` that makes the screen flash rainbow colors.
 - In the final game the flashing effect is only used by Apocalypse to flash white.
+
+#### Frig
+![frig](img/frig.gif)
+- There is a flag to stretch the towners, presumably after beating the game.
+- A similar unused bird frig feature exists, where birds flock to the player.
