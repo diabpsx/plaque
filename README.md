@@ -7,7 +7,18 @@ All known improvements are showcased here on a golden plaque dedicated to the po
 
 The beta referenced below is the Easy As Pie (12-12-1997) build which can be [downloaded here](https://hiddenpalace.org/Diablo_(Dec_12,_1997_prototype)).
 
+## New Bugs
+
+This section contains bugs specific to the PSX port that are not present in the original game.
+
+#### Lighting
+- The torches in the Valor quest will turn white when the game is saved then loaded on level 5. Going to another level and coming back makes them yellow again. It is not known if all torches were intended to be yellow or white.
+- Blue and yellow blood stars cast by Succubi use a red light radius when casting. The original game sets the light before the missile type is changed to the blood star variants, which was not accounted for on the PSX so it always uses the default blood star lighting.
+- Blue and yellow blood stars cast by Succubi use a red light radius when exploding. This is because the check for missile type uses the base animation and not the exploding animation.
+
 ## Bugfixes
+
+This section contains bugs that were fixed that still exist in the original game even in the latest patch.
 
 #### Dungeon Generation
 - The player may sometimes warp to Lazarus' lair on level 15 by walking on a seemingly random tile. This tile happens to be the 40x40 coordinate of the Red Portal before it is converted to 112x112. Code: `DRLG_L4PlaceMiniSet`
