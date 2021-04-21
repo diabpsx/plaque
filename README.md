@@ -17,7 +17,8 @@ This section contains bugs specific to the PSX port that are not present in the 
 - Blue and yellow blood stars cast by Succubi use a red light radius when exploding. This is because the check for missile type uses the base animation and not the exploding animation.
 
 #### Objects
-- The doors in caves are always drawn using the brown palette, instead of the level palette.
+![door](img/cavedoor.png)
+- The doors in caves are always drawn using the brown palette, instead of the level palette. They were drawn correctly in the beta (shown left).
 
 ## Bugfixes
 
