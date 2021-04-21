@@ -16,6 +16,9 @@ This section contains bugs specific to the PSX port that are not present in the 
 - Blue and yellow blood stars cast by Succubi use a red light radius when casting. The original game sets the light before the missile type is changed to the blood star variants, which was not accounted for on the PSX so it always uses the default blood star lighting.
 - Blue and yellow blood stars cast by Succubi use a red light radius when exploding. This is because the check for missile type uses the base animation and not the exploding animation.
 
+#### Objects
+- The doors in caves are always drawn using the brown palette, instead of the level palette.
+
 ## Bugfixes
 
 This section contains bugs that were fixed that still exist in the original game even in the latest patch.
