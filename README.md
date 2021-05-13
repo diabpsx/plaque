@@ -15,6 +15,7 @@ This section contains bugs specific to the PSX port that are not present in the 
 - The torches in the Valor quest will turn white when the game is saved then loaded on level 5. Going to another level and coming back makes them yellow again. It is not known if all torches were intended to be yellow or white.
 - Blue and yellow blood stars cast by Succubi use a red light radius when casting. The original game sets the light before the missile type is changed to the blood star variants, which was not accounted for on the PSX so it always uses the default blood star lighting.
 - Blue and yellow blood stars cast by Succubi use a red light radius when exploding. This is because the check for missile type uses the base animation and not the exploding animation.
+- Town portal should be a lighter blue but the flag for light green instead of light blue is set. The light radius of the portal is also wrong if going to another level by stairs and coming back.
 
 #### Objects
 ![door](img/cavedoor.png)
